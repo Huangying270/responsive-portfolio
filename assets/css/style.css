@@ -314,10 +314,22 @@ input[type=submit] {
         clear: both;
         float: none;
         width: 100%;
+        height: auto;
+        display:block;
+        margin:0 auto;
     }
     .auth-image {
         clear: both;
         float: none;
         width: 100%;
+    }
+    .main-section {
+        text-align: left;
+    }
+    .work {
+        clear: both;
+        float: none;
+        width: 100%;
+        height: auto;
     }
 }
